@@ -3,16 +3,37 @@
     src: url("../../assets/fonts/ExpletusSans-Regular.ttf");
 }
 
+
+.col{
+
+
+align-items: center;
+}
+
+#logo{
+    
+    margin-left: 30%;
+    float: left;
+    margin-top:40px;
+    width:128px;
+    height: 128px;
+    vertical-align: middle;
+
+}
+
+
+
 .container {
     display: grid;
     grid-template-columns: 50% auto;
 }
 .col h1{
-    padding: .4em 1.3em;
+    /* padding: .4em 1.3em; */
     font-family: "ExpletusSans-Regular";
     text-align: center;
     font-size: 90px;
     font-weight: inherit;
+    float: left;
 
 }
 
