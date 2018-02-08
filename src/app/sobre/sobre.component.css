@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "Dosis-Regular";
+    src: url("../../assets/fonts/Dosis-Regular.ttf");
+}
+
+.footer{
+
+background: #E8E9EB;
+height: 100px;
+margin-bottom: 0px;
+
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+
+}
+
+p{
+
+    position: relative;
+    font-family: 'Dosis-Regular';
+    margin-left: 30px;
+    float: left;
+    font-size: 20px;
+    margin-top: 37px;
+
+}
+#socialMedia{
+
+    position: relative;
+    margin-right: 30px;
+    float: right;
+    margin-top: 20px;
+}
+
+#logo{
+
+
+    height: 60px;
+    width: 60px;
+
+}
+
+
+
+

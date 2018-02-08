@@ -9,7 +9,7 @@ import { ContatoComponent } from './contato/contato.component';
 
 const routes: Routes = [
     {
-      path: 'home',
+      path: '',
       component: HomeComponent
     },
     {
