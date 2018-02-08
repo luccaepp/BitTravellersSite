@@ -5,7 +5,6 @@ import { AppRoutingModule } from './app-routing.module';
 import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { AboutComponent } from './about/about.component';
 import { DataService } from './data.service';
 import { ProjetosComponent } from './projetos/projetos.component';
 import { SobreComponent } from './sobre/sobre.component';
@@ -17,7 +16,6 @@ import { Routes, Router, RouterModule } from '@angular/router';
   declarations: [
     AppComponent,
     HomeComponent,
-    AboutComponent,
     ProjetosComponent,
     SobreComponent,
     ContatoComponent
