@@ -2,6 +2,99 @@
     font-family: "Dosis-Regular";
     src: url("../../assets/fonts/Dosis-Regular.ttf");
 }
+@font-face {
+    font-family: "ExpletusSans-Regular";
+    src: url("../../assets/fonts/ExpletusSans-Regular.ttf");
+}
+
+
+#titulo{
+
+    font-family: 'ExpletusSans-Regular';
+    font-style: normal;
+    font-weight: inherit;
+    font-size: 90px;
+    text-align: center;
+
+    
+}
+
+
+.pessoaLucca{
+
+float: left;
+width:30%;
+position: relative;
+
+
+}
+
+h1{
+
+    font-family: 'Dosis-Regular';
+    font-style: normal;
+    font-weight: inherit;
+
+
+
+}
+
+.pessoaKaoanne{
+
+    float: left;
+    width:30%;
+    position: relative;
+    
+
+}
+.empresa{
+
+    float: left;
+    width:40%;
+    position: relative;
+    
+
+}
+.empresa img{
+
+    border-radius: 0%;
+    height: 200px;
+    position: relative;
+    margin-left: 30%;
+    
+
+}
+
+.pessoaKaoanne img{
+
+    border-radius: 50%;
+    height: 200px;
+    position: relative;
+    margin-left: 20%;
+
+}
+.pessoaLucca img{
+
+    border-radius: 50%;
+    height: 200px;
+    position: relative;
+    margin-left: 20%;
+
+}
+
+
+.coluna p{
+
+
+    text-align: justify;
+    margin-right: 30px;
+    font-family: 'Dosis-Regular';
+    font-style: normal;
+    font-weight: inherit;
+
+
+}
+
 
 .footer{
 
@@ -16,7 +109,7 @@ width: 100%;
 
 }
 
-p{
+.footer p{
 
     position: relative;
     font-family: 'Dosis-Regular';
